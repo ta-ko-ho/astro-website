@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: move-foreign-lot
+package: ayysadmin/move-foreign-lot
